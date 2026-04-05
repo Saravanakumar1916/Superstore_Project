@@ -37,9 +37,12 @@ It provides **sales insights, profit analysis, product performance, and regional
 - **Insight Box:** Background #F1F5F9, Font #1E293B  
 
 ## Screenshots
-![Page 1 – Sales Overview](./screenshots/page1.png)  
-![Page 2 – Sales & Analysis](./screenshots/page2.png)  
-![Page 3 – Sales Deep Dive](./screenshots/page3.png)  
+![Page 1 – Sales Overview](<img"sales overview dashboard" src="https://github.com/user-attachments/assets/16765741-3384-4011-b695-f5cab754c9ee" />
+)  
+![Page 2 – Sales & Analysis](<img"sales  profit analysis" src="https://github.com/user-attachments/assets/c5f6583b-4be9-4ae1-91ce-705a9d3d824d" />
+)  
+![Page 3 – Sales Deep Dive](<img "sales deep dive dashboard" src="https://github.com/user-attachments/assets/8d8fa3b8-1159-4305-9372-f2a0d9115e21" />
+)  
 
 ## Instructions to Use
 1. **Download the PBIX file** from this repository  
